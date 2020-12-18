@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/05pu7LRl5kaW7Hufae30zi8QLCFxfa9p12IZq/5b+I8mw29vTOcA39Wrwn4DYUb7ckNej0Z00298cMKas66Yw==",
+  "success": true,
+  "projectFilePath": "/Users/brendanglancy/Projects/test/test/test.csproj",
+  "expectedPackageFiles": [
+    "/Users/brendanglancy/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/brendanglancy/.nuget/packages/restsharp/106.11.7/restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
